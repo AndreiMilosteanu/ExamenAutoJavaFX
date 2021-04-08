@@ -1,0 +1,550 @@
+[
+{
+  "ID": "1",
+  "frage": "Viteza se va reduce obligatoriu:",
+  "antworten": [
+    "A. la trecerile pentru pietoni;",
+    "B. la semnalul poliţistului de frontieră;",
+    "C. la întâlnirea indicatorului „Cedează trecerea”."
+  ],
+  "richtigeAntworten": [
+     "B",
+    "C"
+  ]
+},
+
+
+{
+  "ID" : "2",
+  "frage" : "Cum veţi semnaliza faptul că autovehiculul cu care circulaţi a rămas în pană pe partea carosabilă?",
+  "antworten": [
+    "A. prin folosirea luminilor de poziţie;",
+     "B. prin instalarea triunghiurilor reflectorizante şi prin folosirea luminilor de avarie;",
+     "C. prin purtarea vestei reflectorizante. "
+  ],
+  "richtigeAntworten": [
+    "A",
+     "B"
+  ]
+},
+
+{
+  "ID" : "3",
+  "frage" : "În care dintre situaţii consumul de carburant al unui motor creşte?",
+  "antworten": [
+     "A. atunci când motorul nu atinge temperatura de funcţionare;",
+     "B. atunci când fumul de eşapament este de culoare neagră;",
+     "C. atunci când motorul funcţionează cu întreruperi."
+  ],
+  "richtigeAntworten": [
+    "A",
+    "B",
+    "C"
+  ]
+},
+
+{
+  "ID" : "4",
+  "frage" : "Pentru care dintre situaţiile de mai jos se dispune reţinerea permisului de conducere?",
+  "antworten": [
+     "A. pentru neacordarea priorităţii de trecere;",
+    "B. permisul de conducere este deteriorat;",
+    "C. permisul de conducere prezintă modificări, ştersături sau adăugiri."
+  ],
+  "richtigeAntworten": [
+   "A",
+   "B",
+   "C"
+  ]
+},
+
+{
+  "ID" : "5",
+  "frage" : "Nu se poate circula cu un autoturism dacă:",
+  "antworten": [
+    "A. se depăşeşte masa maximă admisă, înscrisă în certificatul de înmatriculare;",
+    "B. anvelopele sunt de mărimi şi caracteristici diferite faţă de cele înscrise în certificatul de înmatriculare;",
+    "C. autovehiculul depăşeşte înălţimea înscrisă în certificatul de înmatriculare. "
+  ],
+  "richtigeAntworten": [
+     "A",
+     "B"
+  ]
+},
+
+{
+  "ID" : "6",
+  "frage" : "Neeliberarea completă a frânei de staţionare determină:",
+  "antworten": [
+    "A. zgomote în zona manetei frânei de mână;",
+    "B. un consum suplimentar de carburant;",
+    "C. încălzirea excesivă a butucilor roţilor din spate."
+  ],
+  "richtigeAntworten": [
+    "B",
+    "C"
+  ]
+},
+
+{
+  "ID" : "7",
+  "frage" : "În care dintre situaţii este interzisă schimbarea direcţiei de mers spre stânga?",
+  "antworten": [
+    "A. când conducătorul de vehicul este încadrat pe banda din dreapta;",
+    "B. când drumul pe care urmează să se intre este semnalizat cu indicatorul „Circulaţia interzisă în ambele sensuri”;",
+    "C. când strada pe care urmează să se intre este semnalizată cu indicatorul „Drum fără ieşire”."
+  ],
+  "richtigeAntworten": [
+    "A",
+    "B"
+  ]
+},
+
+{
+  "ID" : "8",
+  "frage" : "În care dintre situaţii este permisă depăşirea?",
+  "antworten": [
+    "A. în intersecţia semnalizată cu indicatoare de prioritate;",
+     "B. în intersecţia dirijată prin semnale luminoase;",
+    "C. în intersecţia dirijată prin semnale ale poliţistului."
+  ],
+  "richtigeAntworten": [
+   "A",
+    "B",
+    "C"
+  ]
+},
+{
+  "ID" : "9",
+  "frage" : "Ce categorii de vehicule au obligaţia de a folosi luminile de întâlnire pe timp de zi?",
+  "antworten": [
+  "A. motocicletele şi mopedele;",
+  "B. autovehiculele care însoţesc coloane militare sau transportă grupuri de persoane;",
+  "C. autovehiculele care tractează alte vehicule sau care transportă produse periculoase."
+  ],
+  "richtigeAntworten": [
+    "A",
+    "B",
+    "C"
+  ]
+},
+
+{
+    "ID": "10",
+    "frage": "În care dintre situaţii sunteţi obligat să reduceţi viteza?",
+    "antworten": [
+      "A. la trecerea la nivel cu calea ferată curentă cu bariere;",
+      "B. la trecerea la nivel cu calea ferată curentă fără bariere;",
+      "C. la trecerea la nivel cu calea ferată curentă industrială."
+    ],
+    "richtigeAntworten": [
+      "A"
+    ]
+},
+
+  {
+    "ID" : "11",
+    "frage" : "Ce obligaţii vă revin în timpul conducerii autovehiculului cu privire la viteză?",
+    "antworten": [
+      "A. să respectaţi viteza maximă admisă pe sectorul de drum pe care circulaţi, corespunzătoare categoriei din care face parte autovehiculul condus;",
+      "B. să vă conformaţi limitelor de viteză impuse prin mijloacele de semnalizare specifice;",
+      "C. să rulaţi pe cât posibil în treptele inferioare de viteză, pentru a nu polua mediul. "
+    ],
+    "richtigeAntworten": [
+      "A",
+      "B"
+    ]
+  },
+
+
+  {
+    "ID" :  "12",
+    "frage" : "Când este permisă depăşirea prin stânga a tramvaielor aflate în mers?",
+    "antworten" : [
+      "A. atunci când drumul public este cu sens unic;",
+      "B. când între şina de tramvai din dreapta şi marginea trotuarului nu există suficient spaţiu pentru depăşire;",
+      "C. în nicio situaţie."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+
+  {
+    "ID" :  "13",
+    "frage" : "Ce condiţii tehnice trebuie să îndeplinească un autovehicul pentru a circula pe drumurile publice?",
+    "antworten" : [
+      "A. să nu depăşească masa totală maximă autorizată înscrisă în certificatul de înmatriculare;",
+      "B. să nu depăşească gabaritul înscris în certificatul de înmatriculare;",
+      "C. să fie înmatriculat şi să corespundă condiţiilor tehnice legale."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "C"
+    ]
+  },
+
+  {
+    "ID" :  "14",
+    "frage" : "Se aplică puncte de penalizare pentru:",
+    "antworten" : [
+      "A. nerespectarea semnificaţiei indicatorului „Oprire”, instalat la trecerea la nivel cu o cale ferată;",
+      "B. depăşirea cu 31-40 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus;",
+      "C. depăşirea cu 10-20 km/h a vitezei maxime admise pe sectorul de drum respectiv pentru categoria din care face parte autovehiculul condus."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+
+  {
+    "ID" :  "15",
+    "frage" : "Cu ce viteză sunteţi obligat să circulaţi pe drumurile publice din afara localităţilor, când partea carosabilă este acoperită cu piatră cubică umedă?",
+    "antworten" : [
+      "A. cu o viteză care să nu depăşească 50 km/h;",
+      "B. cu o viteză care să permită efectuarea oricărei manevre în condiţii de siguranţă;",
+      "C. cu o viteză care să nu depăşească limita maximă de 90 km/h."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+
+  {
+    "ID" :  "16",
+    "frage" : "Cum veţi proceda la întâlnirea semnalului intermitent de culoare galbenă?",
+    "antworten" : [
+      "A. acest semnal nu vă permite trecerea;",
+      "B. veţi circula cu viteză redusă;",
+      "C. veţi respecta semnificaţia semnalizării rutiere şi a regulilor de circulaţie aplicabile în acel loc."
+    ],
+    "richtigeAntworten" : [
+      "B",
+      "C"
+    ]
+  },
+
+  {
+    "ID" :  "17",
+    "frage" : "La trecerea autovehiculelor cu regim de circulaţie prioritar, care au în funcţiune mijloacele de avertizare sonoră şi luminoasă de culoare albastră, sunteţi obligat:",
+    "antworten" : [
+      "A. să reduceţi viteza;",
+      "B. să circulaţi cât mai aproape de marginea drumului în sensul de deplasare;",
+      "C. să acordaţi prioritate de trecere."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+
+  {
+    "ID" :  "18",
+    "frage" : "În ce situaţie poate fi reţinut certificatul de înmatriculare al unui vehicul?",
+    "antworten" : [
+      "A. autovehiculul are aplicate afişe publicitare;",
+      "B. datele din certificatul de înmatriculare nu concordă cu caracteristicile tehnice ale vehiculului;",
+      "C. deţinătorul nu face dovada încheierii asigurării auto de răspundere civilă."
+    ],
+    "richtigeAntworten" : [
+      "B",
+      "C"
+    ]
+  },
+
+  {
+    "ID" :  "19",
+    "frage" : "Se interzice circulaţia pe drumurile publice a autovehiculelor dacă:",
+    "antworten" : [
+      "A. echipamentul de frânare este defect;",
+      "B. emisia de gaze atinge limita legală admisă;",
+      "C. au montate dispozitive de iluminare şi de semnalizare, altele decât cele omologate de autoritatea competentă."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "20",
+    "frage" : "Circulaţia autovehiculelor pe drumurile publice se interzice atunci când:",
+    "antworten" : [
+      "A. certificatul de înmatriculare este deteriorat;",
+      "B. acestea nu corespund normelor tehnice cu privire la siguranţa rutieră şi la protecţia mediului înconjurător;",
+      "C. termenul de valabilitate a inspecţiei tehnice periodice a expirat."
+    ],
+    "richtigeAntworten" : [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "21",
+    "frage" : "Sunteţi obligat să nu depăşiţi viteza de 50 km/h în afara localităţilor, în următoarele situaţii:",
+    "antworten" : [
+      "A. pe poduri sau sub poduri;",
+      "B. la trecerea pe lângă grupuri organizate, coloane militare sau cortegii, pe drumurile cu o singură bandă pe sens;",
+      "C. în curbe deosebit de periculoase sau cu vizibilitate mai mică de 50 m. "
+    ],
+    "richtigeAntworten" : [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "22",
+    "frage" : "Pentru care dintre faptele de mai jos se aplică măsura reţinerii permisului de conducere?",
+    "antworten" : [
+      "A. pentru neoprirea la semnalul regulamentar al poliţistului;",
+      "B. pentru nerespectarea dispoziţiilor legale referitoare la depăşire;",
+      "C. pentru nerespectarea normelor privind folosirea luminilor pe timp de noapte."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "ID" :  "23",
+    "frage" : "În care dintre situaţii este interzisă întoarcerea vehiculului?",
+    "antworten" : [
+      "A. în locul în care este instalat indicatorul cu semnificaţia „Întoarcerea interzisă”;",
+      "B. în locurile în care oprirea este interzisă, cu excepţia intersecţiilor;",
+      "C. în zona de acţiune a indicatorului „Staţionarea interzisă”."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "ID" :  "24",
+    "frage" : "Transportarea victimelor la spital se poate realiza cu:",
+    "antworten" : [
+      "A. o ambulanţă special dotată în acest sens;",
+      "B. o ambulanţă însoţită de un medic;",
+      "C. vehiculul care a provocat accidentul, dacă starea victimei permite acest lucru."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "25",
+    "frage" : "În care dintre situaţii se reţine certificatul de înmatriculare sau înregistrare?",
+    "antworten" : [
+      "A. când inspecţia tehnică periodică a expirat;",
+      "B. dacă zgomotul în mers sau staţionare depăşeşte limita legală admisă;",
+      "C. când motorul emite noxe poluante peste limitele legale admise."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "26",
+    "frage" : "Care dintre faptele de mai jos constituie infracţiune şi se pedepseşte ca atare?",
+    "antworten" : [
+      "A. conducerea pe drumul public a unui autovehicul neînmatriculat;",
+      "B. conducerea pe drumul public a unui autovehicul fără certificat de înmatriculare;",
+      "C. conducerea pe drumul public a unui autovehicul cu număr de înmatriculare fals.\n"
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "27",
+    "frage" : "În care dintre situaţiile prezentate mai jos nu este permisă oprirea voluntară a vehiculelor?",
+    "antworten" : [
+      "A. la o distanţă mai mică de 50 m de trecerea la nivel cu calea ferată;",
+      "B. pe pistele obligatorii pentru pietoni;",
+      "C. pe platforma căii ferate sau de tramvai, dacă prin aceasta este stânjenită circulaţia vehiculelor pe şine."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "28",
+    "frage" : "În ce situaţii se interzice circulaţia pe drumurile publice a autovehiculelor?",
+    "antworten" : [
+      "A. atunci când zgomotul în mers sau în staţionare depăşeşte limita legală admisă pentru tipul respectiv de vehicul;",
+      "B. atunci când nu se respectă regulile referitoare la transportul produselor periculoase;",
+      "C. atunci când sunt montate alte dispozitive de avertizare sonoră decât cele omologate de autoritatea competentă."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "29",
+    "frage" : "Cum veţi proceda corect pentru a intra pe autostradă folosind banda de intrare (accelerare):",
+    "antworten" : [
+      "A. veţi mări viteza, întrucât banda pe care circulaţi este special creată în acest scop;",
+      "B. cedaţi trecerea autovehiculelor care circulă pe prima bandă a autostrăzii şi nu stânjeniţi în niciun fel circulaţia acestora;",
+      "C. nu aveţi nicio obligaţie, deoarece autostrada are suficiente benzi pentru a permite circulaţia tuturor vehiculelor."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "ID" :  "30",
+    "frage" : "În care dintre situaţii este interzisă depăşirea unui moped?",
+    "antworten" : [
+      "A. pe trecerile pentru pietoni, semnalizate cu indicator sau cu marcaj;",
+      "B. la mai puţin de 50 m de trecerile la nivel cu calea ferată;",
+      "C. în zona de acţiune a indicatorului „Depăşirea autovehiculelor, cu excepţia motocicletelor fără ataş, interzisă”"
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "ID" :  "31",
+    "frage" : "În care dintre următoarele situaţii sunteţi obligat să circulaţi cu o viteză care să nu depăşească 30 km/h în localităţi?",
+    "antworten" : [
+      "A. în zona de acţiune a indicatorului de avertizare \"Accident\";",
+      "B. când vizibilitatea este sub 100 m, în condiţii de ceaţă;",
+      "C. la intersectarea cu vehiculele care circulă din sens opus"
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "ID" :  "32",
+    "frage" : "Conducătorii de autovehicule au următoarele obligaţii, înainte de a pleca la drum:",
+    "antworten" : [
+      "A. să verifice sistemul de lumini şi semnalizare;",
+      "B. să verifice instalaţia de climatizare;",
+      "C. să menţină permanent curat parbrizul."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "33",
+    "frage" : "Viteza se reduce la semnalul: ",
+    "antworten" : [
+      "A. personalului autorizat din zona lucrărilor drumului public;",
+      "B. agentului de cale ferată;",
+      "C. poliţistului de frontieră."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "ID" :  "34",
+    "frage" : "Conducătorul de autovehicul poate efectua depăşirea pe partea dreaptă a autovehiculului al cărui conducător a semnalizat intenţia schimbării direcţiei de mers spre stânga?",
+    "antworten" : [
+      "A. da, dacă vehiculul din faţă s-a angajat corespunzător părăsirii sensului de mers;",
+      "B. da, dacă s-a creat spaţiu suficient pentru această manevră;",
+      "C. nu."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "ID" :  "35",
+    "frage" : "Ce bunuri sunt supuse confiscării, în conformitate cu legea circulaţiei?",
+    "antworten" : [
+      "A. mijloacele speciale de avertizare luminoasă şi sonoră deţinute ilegal;",
+      "B. farurile suplimentare şi portbagajul suplimentar neautorizat;",
+      "C. mijloacele tehnice de detectare a prezenţei aparatelor radar.\n"
+    ],
+    "richtigeAntworten" : [
+      "A"
+    ]
+  },
+  {
+    "ID" :  "36",
+    "frage" : "Precizaţi în care dintre situaţii este interzisă staţionarea voluntară a vehiculelor?",
+    "antworten" : [
+      "A. în dreptul căilor de acces care deservesc proprietăţile alăturate drumurilor publice;",
+      "B. în zona aglomerată a pieţelor;",
+      "C. în pante şi în rampe."
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "C"
+    ]
+  },
+  {
+  "ID" :  "37",
+  "frage" : "Când se restituie permisul de conducere reţinut de către poliţie în vederea suspendării exercitării dreptului de a conduce?",
+  "antworten" : [
+    "A. la hotărârea agentului de circulaţie;",
+    "B. la expirarea termenului de suspendare, dacă a fost promovat testul de verificare a cunoştinţelor, în situaţiile prevăzute de lege;",
+    "C. atunci când procesul verbal de contravenţie a fost anulat printr-o hotărâre judecătorească definitivă."
+  ],
+  "richtigeAntworten" : [
+    "B",
+    "C"
+  ]
+},
+  {
+  "ID" :  "38",
+  "frage" : "Când se recomandă să opriţi motorul pentru a reduce consumul de combustibil?",
+  "antworten" : [
+    "A. în cazul unei opriri lungi la o trecere la nivel cu calea ferată;",
+    "B. la culoarea roşie a unui semafor care, de regulă, durează foarte mult;",
+    "C. la semnalul poliţistului rutier făcut în acest sens."
+  ],
+  "richtigeAntworten" : [
+    "A",
+    "B"
+  ]
+},
+  {
+    "ID" :  "39",
+    "frage" : "Ce se poate ataşa unui autovehicul din categoria B?",
+    "antworten" : [
+      "A. o remorcă uşoară, a cărei masă să nu depăşească 750 kg;",
+      "B. o remorcă sau o semiremorcă, cu masa maximă autorizată de până la 1 t;",
+      "C. o remorcă a cărei masă totală maximă autorizată depăşeşte 750 kg, cu condiţia ca masa totală maximă autorizată"
+    ],
+    "richtigeAntworten" : [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "ID" :  "40",
+    "frage" : "În ce situaţie se dispune imobilizarea vehiculului?",
+    "antworten" : [
+      "A. când există date sau indicii că acesta face obiectul unei contravenţii;",
+      "B. când are defecţiuni grave la sistemul de direcţie;",
+      "C. când este în imposibilitatea de a se deplasa, din cauza unor defecţiuni la motor."
+    ],
+    "richtigeAntworten" : [
+      "B"
+    ]
+  }
+]
